@@ -281,13 +281,12 @@ cd ~
 ----------
 
 
-
+location of a file
 ==========
 29. What's a directory?
 ----------
 
-
-
+file that hold info
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
-----------
+---------- /user/Downloads/
